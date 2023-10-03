@@ -1,2 +1,4 @@
-# Projexts
-you can contribute your valuable code here. Don't forget to ⭐ this repo
+# Hacktoberfest 2023
+>contribute your projects and ideas.
+## Don't forget to add your projects to specific folders
+>If you cant find the folder please create one then contribute
